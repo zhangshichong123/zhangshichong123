@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: 123
-- ⚡ Fun fact: 456
+- 😄 Pronouns: 你好吗？
+- ⚡ Fun fact: 我很好！！！
 
 <!---
 zhangshichong123/zhangshichong123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
